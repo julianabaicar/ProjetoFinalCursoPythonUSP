@@ -1,4 +1,4 @@
-# Contém as funções relacionadas à leitura das assinaturas e textos.
+# assinatura.py - Contém as funções relacionadas à leitura das assinaturas e textos.
 
 def le_assinatura():
     print("Bem-vindo ao detector automático de COH-PIAH.")

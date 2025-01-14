@@ -1,4 +1,4 @@
-# Contém as funções relacionadas ao processamento do texto (separar sentenças, frases, palavras, etc).
+# processamento.py - Contém as funções relacionadas ao processamento do texto (separar sentenças, frases, palavras, etc).
 
 import re
 

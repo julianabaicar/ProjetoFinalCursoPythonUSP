@@ -1,5 +1,3 @@
-# processamento.py - Contém as funções relacionadas ao processamento do texto (separar sentenças, frases, palavras, etc).
-
 import re
 
 def separa_sentencas(texto):
@@ -39,10 +37,3 @@ def n_palavras_diferentes(lista_palavras):
             freq[p] = 1
 
     return len(freq)
-
-def compara_assinatura(as_a, as_b):
-    somatorio_diferencas = 0
-    for i in range(len(as_a)):
-        somatorio_diferencas += abs(as_a[i] - as_b[i])
-    grau_similaridade = somatorio_diferencas / len(as_a)
-    return grau_similaridade

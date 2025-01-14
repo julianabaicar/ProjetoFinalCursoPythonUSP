@@ -1,5 +1,3 @@
-# assinatura.py - Contém as funções relacionadas à leitura das assinaturas e textos.
-
 def le_assinatura():
     print("Bem-vindo ao detector automático de COH-PIAH.")
     print("Informe a assinatura típica de um aluno infectado:")
@@ -16,10 +14,10 @@ def le_assinatura():
 def le_textos():
     i = 1
     textos = []
-    texto = input("Digite o texto " + str(i) +" (aperte enter para sair):")
+    texto = input("Digite o texto " + str(i) + " (aperte enter para sair):")
     while texto:
         textos.append(texto)
         i += 1
-        texto = input("Digite o texto " + str(i) +" (aperte enter para sair):")
+        texto = input("Digite o texto " + str(i) + " (aperte enter para sair):")
 
     return textos

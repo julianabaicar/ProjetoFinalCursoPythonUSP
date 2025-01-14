@@ -28,7 +28,9 @@
 - ```Instalar o Python 3```
 - ```NO TERMINAL acessar o diretório usando o seguinte comando```: cd projeto_coh_piah
 - ```No terminal```: python main.py
+
 O sistema retornará as perguntas, para obter o resultado esperado você pode utilizar o seguinte cenário para teste:
+
     Exemplo:
     
         $ > python3 coh_piah.py

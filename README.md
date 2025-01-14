@@ -24,3 +24,16 @@
 
             Tamanho médio de frase: Média simples do número de caracteres por frase.
 
+
+## Concluindo
+   
+    Basicamente, sua tarefa é implementar corretamente as seguintes funções:  
+
+        compara_assinatura(as_a, as_b)
+
+        calcula_assinatura(texto)
+
+        avalia_textos(textos, ass_cp)
+
+        Usando o esqueleto que oferecemos acima e implementando essas 3 funções, seu detector de plágio estará completo e você poderá submetê-lo ao corretor automático. Caso o corretor automático aponte erros, tente ler com bastante cuidado e atenção a mensagem fornecida por ele, pois ela normalmente ajuda a identificar o erro.   
+

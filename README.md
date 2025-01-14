@@ -54,3 +54,5 @@ O sistema retornará as perguntas, para obter o resultado esperado você pode ut
         Digite o texto 4 (aperte enter para sair):
 
         O autor do texto 2 está infectado com COH-PIAH
+
+- ```Ou rodar o script de teste das funções de comparação no terminal```: python test_script.py
